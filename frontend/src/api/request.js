@@ -1,8 +1,11 @@
 import axios from 'axios'
 import { ElMessage } from 'element-plus'
 
+const productionApi = 'https://event-horizon-ai-sales-api.onrender.com/api'
+const defaultApi = window.location.hostname.endsWith('chatgpt.site') ? productionApi : '/api'
+
 const request = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || '/api',
+  baseURL: import.meta.env.VITE_API_BASE_URL || defaultApi,
   timeout: 10000,
   headers: { 'Content-Type': 'application/json' },
 })

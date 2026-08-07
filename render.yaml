@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: event-horizon-ai-sales-api
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: event-horizon-ai-sales-db
+          property: connectionString
+      - key: CORS_ORIGINS
+        value: https://event-horizon-ai-sales.xt284426944898.chatgpt.site
+
+databases:
+  - name: event-horizon-ai-sales-db
+    plan: free
+    databaseName: event_horizon_ai_sales
+    user: event_horizon
