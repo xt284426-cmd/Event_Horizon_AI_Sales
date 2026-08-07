@@ -1,0 +1,396 @@
+[
+  {
+    "sample_id": "EDU-EVAL-001",
+    "analysis_record_id": 1,
+    "conversation_external_id": "EDU-CONVERSATION-0001",
+    "actual_outcome": "成交",
+    "expected_customer_level": "高",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "已成交",
+      "意向等级": "高",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-002",
+    "analysis_record_id": 2,
+    "conversation_external_id": "EDU-CONVERSATION-0002",
+    "actual_outcome": "流失",
+    "expected_customer_level": "低",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "流失",
+      "意向等级": "低",
+      "风险": [
+        "明确拒绝"
+      ]
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-003",
+    "analysis_record_id": 3,
+    "conversation_external_id": "EDU-CONVERSATION-0003",
+    "actual_outcome": "持续跟进",
+    "expected_customer_level": "中等",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "方案评估",
+      "意向等级": "中等",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-004",
+    "analysis_record_id": 4,
+    "conversation_external_id": "EDU-CONVERSATION-0004",
+    "actual_outcome": "成交",
+    "expected_customer_level": "高",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "已成交",
+      "意向等级": "高",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-005",
+    "analysis_record_id": 5,
+    "conversation_external_id": "EDU-CONVERSATION-0005",
+    "actual_outcome": "流失",
+    "expected_customer_level": "低",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "流失",
+      "意向等级": "低",
+      "风险": [
+        "明确拒绝"
+      ]
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-006",
+    "analysis_record_id": 6,
+    "conversation_external_id": "EDU-CONVERSATION-0006",
+    "actual_outcome": "持续跟进",
+    "expected_customer_level": "中等",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "方案评估",
+      "意向等级": "中等",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-007",
+    "analysis_record_id": 7,
+    "conversation_external_id": "EDU-CONVERSATION-0007",
+    "actual_outcome": "成交",
+    "expected_customer_level": "高",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "已成交",
+      "意向等级": "高",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-008",
+    "analysis_record_id": 8,
+    "conversation_external_id": "EDU-CONVERSATION-0008",
+    "actual_outcome": "流失",
+    "expected_customer_level": "低",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "流失",
+      "意向等级": "低",
+      "风险": [
+        "明确拒绝"
+      ]
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-009",
+    "analysis_record_id": 9,
+    "conversation_external_id": "EDU-CONVERSATION-0009",
+    "actual_outcome": "持续跟进",
+    "expected_customer_level": "中等",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "方案评估",
+      "意向等级": "中等",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-010",
+    "analysis_record_id": 10,
+    "conversation_external_id": "EDU-CONVERSATION-0010",
+    "actual_outcome": "成交",
+    "expected_customer_level": "高",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "已成交",
+      "意向等级": "高",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-011",
+    "analysis_record_id": 11,
+    "conversation_external_id": "EDU-CONVERSATION-0011",
+    "actual_outcome": "流失",
+    "expected_customer_level": "低",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "流失",
+      "意向等级": "低",
+      "风险": [
+        "明确拒绝"
+      ]
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-012",
+    "analysis_record_id": 12,
+    "conversation_external_id": "EDU-CONVERSATION-0012",
+    "actual_outcome": "持续跟进",
+    "expected_customer_level": "中等",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "方案评估",
+      "意向等级": "中等",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-013",
+    "analysis_record_id": 13,
+    "conversation_external_id": "EDU-CONVERSATION-0013",
+    "actual_outcome": "成交",
+    "expected_customer_level": "高",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "已成交",
+      "意向等级": "高",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-014",
+    "analysis_record_id": 14,
+    "conversation_external_id": "EDU-CONVERSATION-0014",
+    "actual_outcome": "流失",
+    "expected_customer_level": "低",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "流失",
+      "意向等级": "低",
+      "风险": [
+        "明确拒绝"
+      ]
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-015",
+    "analysis_record_id": 15,
+    "conversation_external_id": "EDU-CONVERSATION-0015",
+    "actual_outcome": "持续跟进",
+    "expected_customer_level": "中等",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "方案评估",
+      "意向等级": "中等",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-016",
+    "analysis_record_id": 16,
+    "conversation_external_id": "EDU-CONVERSATION-0016",
+    "actual_outcome": "成交",
+    "expected_customer_level": "高",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "已成交",
+      "意向等级": "高",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-017",
+    "analysis_record_id": 17,
+    "conversation_external_id": "EDU-CONVERSATION-0017",
+    "actual_outcome": "流失",
+    "expected_customer_level": "低",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "流失",
+      "意向等级": "低",
+      "风险": [
+        "明确拒绝"
+      ]
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-018",
+    "analysis_record_id": 18,
+    "conversation_external_id": "EDU-CONVERSATION-0018",
+    "actual_outcome": "持续跟进",
+    "expected_customer_level": "中等",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "方案评估",
+      "意向等级": "中等",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-019",
+    "analysis_record_id": 19,
+    "conversation_external_id": "EDU-CONVERSATION-0019",
+    "actual_outcome": "成交",
+    "expected_customer_level": "高",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "已成交",
+      "意向等级": "高",
+      "风险": []
+    }
+  },
+  {
+    "sample_id": "EDU-EVAL-020",
+    "analysis_record_id": 20,
+    "conversation_external_id": "EDU-CONVERSATION-0020",
+    "actual_outcome": "流失",
+    "expected_customer_level": "低",
+    "expected_profile": {
+      "需求": [
+        "提升学习成绩"
+      ],
+      "痛点": [
+        "担心课程效果"
+      ],
+      "预算": "5000-8000元",
+      "购买阶段": "流失",
+      "意向等级": "低",
+      "风险": [
+        "明确拒绝"
+      ]
+    }
+  }
+]

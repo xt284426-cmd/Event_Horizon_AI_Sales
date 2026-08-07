@@ -1,0 +1,1702 @@
+[
+  {
+    "external_customer_id": "EDU-CUSTOMER-0001",
+    "name": "陶佳宁家长",
+    "phone": "15000000001",
+    "email": "parent0001@example.test",
+    "source": "搜索引擎",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "提分效果",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0002",
+    "name": "施欣怡家长",
+    "phone": "19000000002",
+    "email": "parent0002@example.test",
+    "source": "搜索引擎",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "提分效果",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0003",
+    "name": "钱佳宁家长",
+    "phone": "18000000003",
+    "email": "parent0003@example.test",
+    "source": "公众号",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "提分效果",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0004",
+    "name": "张欣怡家长",
+    "phone": "19000000004",
+    "email": "parent0004@example.test",
+    "source": "老客户转介绍",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0005",
+    "name": "冯宇航家长",
+    "phone": "17000000005",
+    "email": "parent0005@example.test",
+    "source": "短视频广告",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "学习反馈",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0006",
+    "name": "沈俊熙家长",
+    "phone": "19000000006",
+    "email": "parent0006@example.test",
+    "source": "线下活动",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "价格与性价比",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0007",
+    "name": "张梓涵家长",
+    "phone": "19000000007",
+    "email": "parent0007@example.test",
+    "source": "搜索引擎",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "价格与性价比",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0008",
+    "name": "张宇航家长",
+    "phone": "18000000008",
+    "email": "parent0008@example.test",
+    "source": "短视频广告",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "课程时间",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0009",
+    "name": "褚宇航家长",
+    "phone": "15000000009",
+    "email": "parent0009@example.test",
+    "source": "企业微信自然咨询",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "高二",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "价格与性价比",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0010",
+    "name": "张梓涵家长",
+    "phone": "13000000010",
+    "email": "parent0010@example.test",
+    "source": "搜索引擎",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "师资水平",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0011",
+    "name": "施睿哲家长",
+    "phone": "19000000011",
+    "email": "parent0011@example.test",
+    "source": "线下活动",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "学习反馈",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0012",
+    "name": "孔诗涵家长",
+    "phone": "18000000012",
+    "email": "parent0012@example.test",
+    "source": "老客户转介绍",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "初三",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "师资水平",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0013",
+    "name": "谢诗涵家长",
+    "phone": "19000000013",
+    "email": "parent0013@example.test",
+    "source": "线下活动",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "价格与性价比",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0014",
+    "name": "孔可馨家长",
+    "phone": "15000000014",
+    "email": "parent0014@example.test",
+    "source": "搜索引擎",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "学习反馈",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0015",
+    "name": "邹欣怡家长",
+    "phone": "19000000015",
+    "email": "parent0015@example.test",
+    "source": "企业微信自然咨询",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "初三",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "课程时间",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0016",
+    "name": "周浩然家长",
+    "phone": "18000000016",
+    "email": "parent0016@example.test",
+    "source": "搜索引擎",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "课程时间",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0017",
+    "name": "钱欣怡家长",
+    "phone": "17000000017",
+    "email": "parent0017@example.test",
+    "source": "搜索引擎",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "课程时间",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0018",
+    "name": "卫明轩家长",
+    "phone": "13000000018",
+    "email": "parent0018@example.test",
+    "source": "企业微信自然咨询",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "初三",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "价格与性价比",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0019",
+    "name": "钱诗涵家长",
+    "phone": "13000000019",
+    "email": "parent0019@example.test",
+    "source": "公众号",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "提分效果",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0020",
+    "name": "魏嘉怡家长",
+    "phone": "17000000020",
+    "email": "parent0020@example.test",
+    "source": "公众号",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "高二",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "价格与性价比",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0021",
+    "name": "施若溪家长",
+    "phone": "15000000021",
+    "email": "parent0021@example.test",
+    "source": "搜索引擎",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0022",
+    "name": "周若溪家长",
+    "phone": "13000000022",
+    "email": "parent0022@example.test",
+    "source": "企业微信自然咨询",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0023",
+    "name": "金浩然家长",
+    "phone": "18000000023",
+    "email": "parent0023@example.test",
+    "source": "老客户转介绍",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "学习反馈",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0024",
+    "name": "蒋明轩家长",
+    "phone": "17000000024",
+    "email": "parent0024@example.test",
+    "source": "搜索引擎",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "学习反馈",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0025",
+    "name": "许睿哲家长",
+    "phone": "19000000025",
+    "email": "parent0025@example.test",
+    "source": "老客户转介绍",
+    "status": "converted",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "课程时间",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "已成交",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0026",
+    "name": "韩宇航家长",
+    "phone": "19000000026",
+    "email": "parent0026@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "提分效果",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0027",
+    "name": "李晨曦家长",
+    "phone": "18000000027",
+    "email": "parent0027@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "学习反馈",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0028",
+    "name": "孙若溪家长",
+    "phone": "17000000028",
+    "email": "parent0028@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "提分效果",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0029",
+    "name": "李浩然家长",
+    "phone": "18000000029",
+    "email": "parent0029@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高二",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "学习反馈",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0030",
+    "name": "卫睿哲家长",
+    "phone": "15000000030",
+    "email": "parent0030@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "课程时间",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0031",
+    "name": "邹雨桐家长",
+    "phone": "18000000031",
+    "email": "parent0031@example.test",
+    "source": "线下活动",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0032",
+    "name": "吴若溪家长",
+    "phone": "15000000032",
+    "email": "parent0032@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高一",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "学习反馈",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0033",
+    "name": "沈欣怡家长",
+    "phone": "13000000033",
+    "email": "parent0033@example.test",
+    "source": "线下活动",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "价格与性价比",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0034",
+    "name": "柏浩然家长",
+    "phone": "18000000034",
+    "email": "parent0034@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "价格与性价比",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0035",
+    "name": "曹晨曦家长",
+    "phone": "18000000035",
+    "email": "parent0035@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高二",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "课程时间",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0036",
+    "name": "杨梓涵家长",
+    "phone": "13000000036",
+    "email": "parent0036@example.test",
+    "source": "线下活动",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "提分效果",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0037",
+    "name": "金佳宁家长",
+    "phone": "18000000037",
+    "email": "parent0037@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高一",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "学习反馈",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0038",
+    "name": "吕梓涵家长",
+    "phone": "19000000038",
+    "email": "parent0038@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "价格与性价比",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0039",
+    "name": "秦明轩家长",
+    "phone": "19000000039",
+    "email": "parent0039@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "学习反馈",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0040",
+    "name": "秦俊熙家长",
+    "phone": "17000000040",
+    "email": "parent0040@example.test",
+    "source": "老客户转介绍",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "师资水平",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0041",
+    "name": "卫可馨家长",
+    "phone": "18000000041",
+    "email": "parent0041@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "课程时间",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0042",
+    "name": "赵俊熙家长",
+    "phone": "19000000042",
+    "email": "parent0042@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初三",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "价格与性价比",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0043",
+    "name": "水俊熙家长",
+    "phone": "18000000043",
+    "email": "parent0043@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高一",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "课程时间",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0044",
+    "name": "曹晨曦家长",
+    "phone": "18000000044",
+    "email": "parent0044@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高二",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "提分效果",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "价格沟通",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0045",
+    "name": "朱浩然家长",
+    "phone": "17000000045",
+    "email": "parent0045@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0046",
+    "name": "孙诗涵家长",
+    "phone": "17000000046",
+    "email": "parent0046@example.test",
+    "source": "线下活动",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "价格与性价比",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "价格沟通",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0047",
+    "name": "魏雨桐家长",
+    "phone": "15000000047",
+    "email": "parent0047@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "提分效果",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0048",
+    "name": "孔嘉怡家长",
+    "phone": "19000000048",
+    "email": "parent0048@example.test",
+    "source": "线下活动",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初三",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "价格与性价比",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0049",
+    "name": "卫宇航家长",
+    "phone": "15000000049",
+    "email": "parent0049@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初三",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "课程时间",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0050",
+    "name": "魏思远家长",
+    "phone": "13000000050",
+    "email": "parent0050@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "价格与性价比",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0051",
+    "name": "李宇航家长",
+    "phone": "19000000051",
+    "email": "parent0051@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "师资水平",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "价格沟通",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0052",
+    "name": "沈可馨家长",
+    "phone": "17000000052",
+    "email": "parent0052@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "课程时间",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "价格沟通",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0053",
+    "name": "陶睿哲家长",
+    "phone": "19000000053",
+    "email": "parent0053@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "课程时间",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0054",
+    "name": "喻雨桐家长",
+    "phone": "19000000054",
+    "email": "parent0054@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "学习反馈",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "价格沟通",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0055",
+    "name": "吴俊熙家长",
+    "phone": "15000000055",
+    "email": "parent0055@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初三",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "课程时间",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0056",
+    "name": "褚晨曦家长",
+    "phone": "18000000056",
+    "email": "parent0056@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "价格与性价比",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0057",
+    "name": "谢浩然家长",
+    "phone": "13000000057",
+    "email": "parent0057@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "提分效果",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "价格沟通",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0058",
+    "name": "卫若溪家长",
+    "phone": "18000000058",
+    "email": "parent0058@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0059",
+    "name": "赵欣怡家长",
+    "phone": "13000000059",
+    "email": "parent0059@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高一",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "提分效果",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0060",
+    "name": "韩子轩家长",
+    "phone": "13000000060",
+    "email": "parent0060@example.test",
+    "source": "老客户转介绍",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "价格与性价比",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0061",
+    "name": "杨俊熙家长",
+    "phone": "17000000061",
+    "email": "parent0061@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "价格与性价比",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0062",
+    "name": "陶欣怡家长",
+    "phone": "13000000062",
+    "email": "parent0062@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "学习反馈",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0063",
+    "name": "赵若溪家长",
+    "phone": "15000000063",
+    "email": "parent0063@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "提分效果",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "价格沟通",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0064",
+    "name": "吴雨桐家长",
+    "phone": "19000000064",
+    "email": "parent0064@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "价格与性价比",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0065",
+    "name": "曹欣怡家长",
+    "phone": "17000000065",
+    "email": "parent0065@example.test",
+    "source": "线下活动",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高一",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "价格与性价比",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0066",
+    "name": "陶欣怡家长",
+    "phone": "17000000066",
+    "email": "parent0066@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "提分效果",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0067",
+    "name": "钱可馨家长",
+    "phone": "15000000067",
+    "email": "parent0067@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0068",
+    "name": "周浩然家长",
+    "phone": "17000000068",
+    "email": "parent0068@example.test",
+    "source": "老客户转介绍",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "提分效果",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0069",
+    "name": "吴梓涵家长",
+    "phone": "13000000069",
+    "email": "parent0069@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "师资水平",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0070",
+    "name": "谢思远家长",
+    "phone": "15000000070",
+    "email": "parent0070@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "课程时间",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0071",
+    "name": "卫嘉怡家长",
+    "phone": "15000000071",
+    "email": "parent0071@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "价格与性价比",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0072",
+    "name": "李睿哲家长",
+    "phone": "17000000072",
+    "email": "parent0072@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "师资水平",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0073",
+    "name": "冯宇航家长",
+    "phone": "13000000073",
+    "email": "parent0073@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高二",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "师资水平",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0074",
+    "name": "金梓涵家长",
+    "phone": "15000000074",
+    "email": "parent0074@example.test",
+    "source": "老客户转介绍",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "师资水平",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0075",
+    "name": "李雨桐家长",
+    "phone": "19000000075",
+    "email": "parent0075@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "学习反馈",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0076",
+    "name": "吕嘉怡家长",
+    "phone": "13000000076",
+    "email": "parent0076@example.test",
+    "source": "老客户转介绍",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0077",
+    "name": "郑宇航家长",
+    "phone": "13000000077",
+    "email": "parent0077@example.test",
+    "source": "线下活动",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "课程时间",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0078",
+    "name": "施雨桐家长",
+    "phone": "19000000078",
+    "email": "parent0078@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高一",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "价格与性价比",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0079",
+    "name": "卫佳宁家长",
+    "phone": "18000000079",
+    "email": "parent0079@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "学习反馈",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "价格沟通",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0080",
+    "name": "杨睿哲家长",
+    "phone": "19000000080",
+    "email": "parent0080@example.test",
+    "source": "老客户转介绍",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "课程时间",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0081",
+    "name": "王俊熙家长",
+    "phone": "15000000081",
+    "email": "parent0081@example.test",
+    "source": "老客户转介绍",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "价格与性价比",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "价格沟通",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0082",
+    "name": "蒋睿哲家长",
+    "phone": "13000000082",
+    "email": "parent0082@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "提分效果",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0083",
+    "name": "施浩然家长",
+    "phone": "18000000083",
+    "email": "parent0083@example.test",
+    "source": "线下活动",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高一",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "师资水平",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0084",
+    "name": "曹浩然家长",
+    "phone": "15000000084",
+    "email": "parent0084@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0085",
+    "name": "吴诗涵家长",
+    "phone": "17000000085",
+    "email": "parent0085@example.test",
+    "source": "老客户转介绍",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高一",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "师资水平",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0086",
+    "name": "谢梓涵家长",
+    "phone": "19000000086",
+    "email": "parent0086@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "提分效果",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0087",
+    "name": "章浩然家长",
+    "phone": "15000000087",
+    "email": "parent0087@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "课程时间",
+      "budget_range": "8000-12000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0088",
+    "name": "韩可馨家长",
+    "phone": "17000000088",
+    "email": "parent0088@example.test",
+    "source": "线下活动",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0089",
+    "name": "冯欣怡家长",
+    "phone": "18000000089",
+    "email": "parent0089@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "学习反馈",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0090",
+    "name": "赵明轩家长",
+    "phone": "17000000090",
+    "email": "parent0090@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高三",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "提分效果",
+      "budget_range": "5000-8000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0091",
+    "name": "冯梓涵家长",
+    "phone": "13000000091",
+    "email": "parent0091@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学三年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "价格与性价比",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0092",
+    "name": "柏俊熙家长",
+    "phone": "19000000092",
+    "email": "parent0092@example.test",
+    "source": "老客户转介绍",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高二",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "提分效果",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0093",
+    "name": "沈浩然家长",
+    "phone": "18000000093",
+    "email": "parent0093@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "英语冲刺提分",
+      "parent_concern": "学习反馈",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "需求确认",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0094",
+    "name": "华晨曦家长",
+    "phone": "13000000094",
+    "email": "parent0094@example.test",
+    "source": "搜索引擎",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初二",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "小升初衔接",
+      "parent_concern": "提分效果",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "初次咨询",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0095",
+    "name": "沈明轩家长",
+    "phone": "19000000095",
+    "email": "parent0095@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "师资水平",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0096",
+    "name": "孙诗涵家长",
+    "phone": "18000000096",
+    "email": "parent0096@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "中等（60-79分）",
+      "learning_goal": "中考冲刺",
+      "parent_concern": "价格与性价比",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "方案比较",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0097",
+    "name": "严子轩家长",
+    "phone": "19000000097",
+    "email": "parent0097@example.test",
+    "source": "公众号",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "小学五年级",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "提高数学成绩",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0098",
+    "name": "吕若溪家长",
+    "phone": "18000000098",
+    "email": "parent0098@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "初一",
+      "current_score": "优秀（90分以上）",
+      "learning_goal": "高考冲刺",
+      "parent_concern": "课程时间",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0099",
+    "name": "孙嘉怡家长",
+    "phone": "15000000099",
+    "email": "parent0099@example.test",
+    "source": "短视频广告",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高一",
+      "current_score": "良好（80-89分）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "价格与性价比",
+      "budget_range": "12000-20000元",
+      "purchase_stage": "决策中",
+      "is_simulated": true
+    }
+  },
+  {
+    "external_customer_id": "EDU-CUSTOMER-0100",
+    "name": "周思远家长",
+    "phone": "18000000100",
+    "email": "parent0100@example.test",
+    "source": "企业微信自然咨询",
+    "status": "active",
+    "extra_data": {
+      "child_grade": "高一",
+      "current_score": "基础薄弱（60分以下）",
+      "learning_goal": "改善学习习惯",
+      "parent_concern": "孩子接受程度",
+      "budget_range": "3000-5000元",
+      "purchase_stage": "试听体验",
+      "is_simulated": true
+    }
+  }
+]

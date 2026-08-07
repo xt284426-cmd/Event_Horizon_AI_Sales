@@ -1,0 +1,802 @@
+[
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0001",
+    "customer_external_id": "EDU-CUSTOMER-0001",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-06T10:00:00+00:00",
+    "ended_at": "2026-01-06T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0002",
+    "customer_external_id": "EDU-CUSTOMER-0002",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-07T11:00:00+00:00",
+    "ended_at": "2026-01-07T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0003",
+    "customer_external_id": "EDU-CUSTOMER-0003",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-08T12:00:00+00:00",
+    "ended_at": "2026-01-08T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0004",
+    "customer_external_id": "EDU-CUSTOMER-0004",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-09T13:00:00+00:00",
+    "ended_at": "2026-01-09T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0005",
+    "customer_external_id": "EDU-CUSTOMER-0005",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-10T14:00:00+00:00",
+    "ended_at": "2026-01-10T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0006",
+    "customer_external_id": "EDU-CUSTOMER-0006",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-11T15:00:00+00:00",
+    "ended_at": "2026-01-11T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0007",
+    "customer_external_id": "EDU-CUSTOMER-0007",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-12T16:00:00+00:00",
+    "ended_at": "2026-01-12T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0008",
+    "customer_external_id": "EDU-CUSTOMER-0008",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-13T09:00:00+00:00",
+    "ended_at": "2026-01-13T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0009",
+    "customer_external_id": "EDU-CUSTOMER-0009",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-14T10:00:00+00:00",
+    "ended_at": "2026-01-14T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0010",
+    "customer_external_id": "EDU-CUSTOMER-0010",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-15T11:00:00+00:00",
+    "ended_at": "2026-01-15T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0011",
+    "customer_external_id": "EDU-CUSTOMER-0011",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-16T12:00:00+00:00",
+    "ended_at": "2026-01-16T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0012",
+    "customer_external_id": "EDU-CUSTOMER-0012",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-17T13:00:00+00:00",
+    "ended_at": "2026-01-17T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0013",
+    "customer_external_id": "EDU-CUSTOMER-0013",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-18T14:00:00+00:00",
+    "ended_at": "2026-01-18T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0014",
+    "customer_external_id": "EDU-CUSTOMER-0014",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-19T15:00:00+00:00",
+    "ended_at": "2026-01-19T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0015",
+    "customer_external_id": "EDU-CUSTOMER-0015",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-20T16:00:00+00:00",
+    "ended_at": "2026-01-20T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0016",
+    "customer_external_id": "EDU-CUSTOMER-0016",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-21T09:00:00+00:00",
+    "ended_at": "2026-01-21T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0017",
+    "customer_external_id": "EDU-CUSTOMER-0017",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-22T10:00:00+00:00",
+    "ended_at": "2026-01-22T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0018",
+    "customer_external_id": "EDU-CUSTOMER-0018",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-23T11:00:00+00:00",
+    "ended_at": "2026-01-23T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0019",
+    "customer_external_id": "EDU-CUSTOMER-0019",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-24T12:00:00+00:00",
+    "ended_at": "2026-01-24T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0020",
+    "customer_external_id": "EDU-CUSTOMER-0020",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-25T13:00:00+00:00",
+    "ended_at": "2026-01-25T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0021",
+    "customer_external_id": "EDU-CUSTOMER-0021",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-26T14:00:00+00:00",
+    "ended_at": "2026-01-26T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0022",
+    "customer_external_id": "EDU-CUSTOMER-0022",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-27T15:00:00+00:00",
+    "ended_at": "2026-01-27T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0023",
+    "customer_external_id": "EDU-CUSTOMER-0023",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-28T16:00:00+00:00",
+    "ended_at": "2026-01-28T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0024",
+    "customer_external_id": "EDU-CUSTOMER-0024",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-29T09:00:00+00:00",
+    "ended_at": "2026-01-29T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0025",
+    "customer_external_id": "EDU-CUSTOMER-0025",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-30T10:00:00+00:00",
+    "ended_at": "2026-01-30T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0026",
+    "customer_external_id": "EDU-CUSTOMER-0026",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-31T11:00:00+00:00",
+    "ended_at": "2026-01-31T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0027",
+    "customer_external_id": "EDU-CUSTOMER-0027",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-02-01T12:00:00+00:00",
+    "ended_at": "2026-02-01T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0028",
+    "customer_external_id": "EDU-CUSTOMER-0028",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-02-02T13:00:00+00:00",
+    "ended_at": "2026-02-02T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0029",
+    "customer_external_id": "EDU-CUSTOMER-0029",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-02-03T14:00:00+00:00",
+    "ended_at": "2026-02-03T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0030",
+    "customer_external_id": "EDU-CUSTOMER-0030",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-02-04T15:00:00+00:00",
+    "ended_at": "2026-02-04T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0031",
+    "customer_external_id": "EDU-CUSTOMER-0031",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-02-05T16:00:00+00:00",
+    "ended_at": "2026-02-05T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0032",
+    "customer_external_id": "EDU-CUSTOMER-0032",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-02-06T09:00:00+00:00",
+    "ended_at": "2026-02-06T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0033",
+    "customer_external_id": "EDU-CUSTOMER-0033",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-02-07T10:00:00+00:00",
+    "ended_at": "2026-02-07T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0034",
+    "customer_external_id": "EDU-CUSTOMER-0034",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-02-08T11:00:00+00:00",
+    "ended_at": "2026-02-08T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0035",
+    "customer_external_id": "EDU-CUSTOMER-0035",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-02-09T12:00:00+00:00",
+    "ended_at": "2026-02-09T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0036",
+    "customer_external_id": "EDU-CUSTOMER-0036",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-02-10T13:00:00+00:00",
+    "ended_at": "2026-02-10T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0037",
+    "customer_external_id": "EDU-CUSTOMER-0037",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-02-11T14:00:00+00:00",
+    "ended_at": "2026-02-11T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0038",
+    "customer_external_id": "EDU-CUSTOMER-0038",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-02-12T15:00:00+00:00",
+    "ended_at": "2026-02-12T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0039",
+    "customer_external_id": "EDU-CUSTOMER-0039",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-02-13T16:00:00+00:00",
+    "ended_at": "2026-02-13T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0040",
+    "customer_external_id": "EDU-CUSTOMER-0040",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-02-14T09:00:00+00:00",
+    "ended_at": "2026-02-14T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0041",
+    "customer_external_id": "EDU-CUSTOMER-0041",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-02-15T10:00:00+00:00",
+    "ended_at": "2026-02-15T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0042",
+    "customer_external_id": "EDU-CUSTOMER-0042",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-02-16T11:00:00+00:00",
+    "ended_at": "2026-02-16T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0043",
+    "customer_external_id": "EDU-CUSTOMER-0043",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-02-17T12:00:00+00:00",
+    "ended_at": "2026-02-17T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0044",
+    "customer_external_id": "EDU-CUSTOMER-0044",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-02-18T13:00:00+00:00",
+    "ended_at": "2026-02-18T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0045",
+    "customer_external_id": "EDU-CUSTOMER-0045",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-02-19T14:00:00+00:00",
+    "ended_at": "2026-02-19T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0046",
+    "customer_external_id": "EDU-CUSTOMER-0046",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-02-20T15:00:00+00:00",
+    "ended_at": "2026-02-20T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0047",
+    "customer_external_id": "EDU-CUSTOMER-0047",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-02-21T16:00:00+00:00",
+    "ended_at": "2026-02-21T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0048",
+    "customer_external_id": "EDU-CUSTOMER-0048",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-02-22T09:00:00+00:00",
+    "ended_at": "2026-02-22T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0049",
+    "customer_external_id": "EDU-CUSTOMER-0049",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-02-23T10:00:00+00:00",
+    "ended_at": "2026-02-23T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0050",
+    "customer_external_id": "EDU-CUSTOMER-0050",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-02-24T11:00:00+00:00",
+    "ended_at": "2026-02-24T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0051",
+    "customer_external_id": "EDU-CUSTOMER-0051",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-02-25T12:00:00+00:00",
+    "ended_at": "2026-02-25T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0052",
+    "customer_external_id": "EDU-CUSTOMER-0052",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-02-26T13:00:00+00:00",
+    "ended_at": "2026-02-26T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0053",
+    "customer_external_id": "EDU-CUSTOMER-0053",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-02-27T14:00:00+00:00",
+    "ended_at": "2026-02-27T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0054",
+    "customer_external_id": "EDU-CUSTOMER-0054",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-02-28T15:00:00+00:00",
+    "ended_at": "2026-02-28T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0055",
+    "customer_external_id": "EDU-CUSTOMER-0055",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-01T16:00:00+00:00",
+    "ended_at": "2026-03-01T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0056",
+    "customer_external_id": "EDU-CUSTOMER-0056",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-03-02T09:00:00+00:00",
+    "ended_at": "2026-03-02T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0057",
+    "customer_external_id": "EDU-CUSTOMER-0057",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-03-03T10:00:00+00:00",
+    "ended_at": "2026-03-03T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0058",
+    "customer_external_id": "EDU-CUSTOMER-0058",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-04T11:00:00+00:00",
+    "ended_at": "2026-03-04T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0059",
+    "customer_external_id": "EDU-CUSTOMER-0059",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-03-05T12:00:00+00:00",
+    "ended_at": "2026-03-05T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0060",
+    "customer_external_id": "EDU-CUSTOMER-0060",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-03-06T13:00:00+00:00",
+    "ended_at": "2026-03-06T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0061",
+    "customer_external_id": "EDU-CUSTOMER-0061",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-07T14:00:00+00:00",
+    "ended_at": "2026-03-07T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0062",
+    "customer_external_id": "EDU-CUSTOMER-0062",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-03-08T15:00:00+00:00",
+    "ended_at": "2026-03-08T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0063",
+    "customer_external_id": "EDU-CUSTOMER-0063",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-03-09T16:00:00+00:00",
+    "ended_at": "2026-03-09T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0064",
+    "customer_external_id": "EDU-CUSTOMER-0064",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-10T09:00:00+00:00",
+    "ended_at": "2026-03-10T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0065",
+    "customer_external_id": "EDU-CUSTOMER-0065",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-03-11T10:00:00+00:00",
+    "ended_at": "2026-03-11T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0066",
+    "customer_external_id": "EDU-CUSTOMER-0066",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-03-12T11:00:00+00:00",
+    "ended_at": "2026-03-12T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0067",
+    "customer_external_id": "EDU-CUSTOMER-0067",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-13T12:00:00+00:00",
+    "ended_at": "2026-03-13T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0068",
+    "customer_external_id": "EDU-CUSTOMER-0068",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-03-14T13:00:00+00:00",
+    "ended_at": "2026-03-14T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0069",
+    "customer_external_id": "EDU-CUSTOMER-0069",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-03-15T14:00:00+00:00",
+    "ended_at": "2026-03-15T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0070",
+    "customer_external_id": "EDU-CUSTOMER-0070",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-16T15:00:00+00:00",
+    "ended_at": "2026-03-16T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0071",
+    "customer_external_id": "EDU-CUSTOMER-0071",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-03-17T16:00:00+00:00",
+    "ended_at": "2026-03-17T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0072",
+    "customer_external_id": "EDU-CUSTOMER-0072",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-03-18T09:00:00+00:00",
+    "ended_at": "2026-03-18T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0073",
+    "customer_external_id": "EDU-CUSTOMER-0073",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-19T10:00:00+00:00",
+    "ended_at": "2026-03-19T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0074",
+    "customer_external_id": "EDU-CUSTOMER-0074",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-03-20T11:00:00+00:00",
+    "ended_at": "2026-03-20T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0075",
+    "customer_external_id": "EDU-CUSTOMER-0075",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-03-21T12:00:00+00:00",
+    "ended_at": "2026-03-21T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0076",
+    "customer_external_id": "EDU-CUSTOMER-0076",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-22T13:00:00+00:00",
+    "ended_at": "2026-03-22T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0077",
+    "customer_external_id": "EDU-CUSTOMER-0077",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-03-23T14:00:00+00:00",
+    "ended_at": "2026-03-23T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0078",
+    "customer_external_id": "EDU-CUSTOMER-0078",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-03-24T15:00:00+00:00",
+    "ended_at": "2026-03-24T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0079",
+    "customer_external_id": "EDU-CUSTOMER-0079",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-25T16:00:00+00:00",
+    "ended_at": "2026-03-25T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0080",
+    "customer_external_id": "EDU-CUSTOMER-0080",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-03-26T09:00:00+00:00",
+    "ended_at": "2026-03-26T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0081",
+    "customer_external_id": "EDU-CUSTOMER-0081",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-03-27T10:00:00+00:00",
+    "ended_at": "2026-03-27T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0082",
+    "customer_external_id": "EDU-CUSTOMER-0082",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-28T11:00:00+00:00",
+    "ended_at": "2026-03-28T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0083",
+    "customer_external_id": "EDU-CUSTOMER-0083",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-03-29T12:00:00+00:00",
+    "ended_at": "2026-03-29T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0084",
+    "customer_external_id": "EDU-CUSTOMER-0084",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-03-30T13:00:00+00:00",
+    "ended_at": "2026-03-30T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0085",
+    "customer_external_id": "EDU-CUSTOMER-0085",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-03-31T14:00:00+00:00",
+    "ended_at": "2026-03-31T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0086",
+    "customer_external_id": "EDU-CUSTOMER-0086",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-04-01T15:00:00+00:00",
+    "ended_at": "2026-04-01T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0087",
+    "customer_external_id": "EDU-CUSTOMER-0087",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-04-02T16:00:00+00:00",
+    "ended_at": "2026-04-02T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0088",
+    "customer_external_id": "EDU-CUSTOMER-0088",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-04-03T09:00:00+00:00",
+    "ended_at": "2026-04-03T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0089",
+    "customer_external_id": "EDU-CUSTOMER-0089",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-04-04T10:00:00+00:00",
+    "ended_at": "2026-04-04T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0090",
+    "customer_external_id": "EDU-CUSTOMER-0090",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-05T11:00:00+00:00",
+    "ended_at": "2026-01-05T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0091",
+    "customer_external_id": "EDU-CUSTOMER-0091",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-06T12:00:00+00:00",
+    "ended_at": "2026-01-06T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0092",
+    "customer_external_id": "EDU-CUSTOMER-0092",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-07T13:00:00+00:00",
+    "ended_at": "2026-01-07T14:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0093",
+    "customer_external_id": "EDU-CUSTOMER-0093",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-08T14:00:00+00:00",
+    "ended_at": "2026-01-08T15:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0094",
+    "customer_external_id": "EDU-CUSTOMER-0094",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-09T15:00:00+00:00",
+    "ended_at": "2026-01-09T16:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0095",
+    "customer_external_id": "EDU-CUSTOMER-0095",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-10T16:00:00+00:00",
+    "ended_at": "2026-01-10T17:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0096",
+    "customer_external_id": "EDU-CUSTOMER-0096",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-11T09:00:00+00:00",
+    "ended_at": "2026-01-11T10:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0097",
+    "customer_external_id": "EDU-CUSTOMER-0097",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-12T10:00:00+00:00",
+    "ended_at": "2026-01-12T11:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0098",
+    "customer_external_id": "EDU-CUSTOMER-0098",
+    "sales_external_id": "EDU-SALES-002",
+    "channel": "wecom",
+    "started_at": "2026-01-13T11:00:00+00:00",
+    "ended_at": "2026-01-13T12:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0099",
+    "customer_external_id": "EDU-CUSTOMER-0099",
+    "sales_external_id": "EDU-SALES-003",
+    "channel": "wecom",
+    "started_at": "2026-01-14T12:00:00+00:00",
+    "ended_at": "2026-01-14T13:15:00+00:00"
+  },
+  {
+    "external_conversation_id": "EDU-CONVERSATION-0100",
+    "customer_external_id": "EDU-CUSTOMER-0100",
+    "sales_external_id": "EDU-SALES-001",
+    "channel": "wecom",
+    "started_at": "2026-01-15T13:00:00+00:00",
+    "ended_at": "2026-01-15T14:15:00+00:00"
+  }
+]

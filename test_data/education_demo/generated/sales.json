@@ -1,0 +1,44 @@
+[
+  {
+    "external_user_id": "EDU-SALES-001",
+    "name": "林晓雯",
+    "email": "xiaowen.lin@example.test",
+    "role": "sales",
+    "department": "K12课程顾问一部",
+    "sales_level": "高级课程顾问",
+    "years_experience": 6,
+    "specialties": [
+      "初中数学",
+      "升学规划",
+      "高客单家长沟通"
+    ]
+  },
+  {
+    "external_user_id": "EDU-SALES-002",
+    "name": "周志远",
+    "email": "zhiyuan.zhou@example.test",
+    "role": "sales",
+    "department": "K12课程顾问二部",
+    "sales_level": "资深课程顾问",
+    "years_experience": 8,
+    "specialties": [
+      "高中英语",
+      "高考冲刺",
+      "异议处理"
+    ]
+  },
+  {
+    "external_user_id": "EDU-SALES-003",
+    "name": "陈雨桐",
+    "email": "yutong.chen@example.test",
+    "role": "sales",
+    "department": "素质教育事业部",
+    "sales_level": "中级课程顾问",
+    "years_experience": 4,
+    "specialties": [
+      "小学语文",
+      "学习习惯",
+      "续费转介绍"
+    ]
+  }
+]
